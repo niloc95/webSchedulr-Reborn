@@ -1,0 +1,2 @@
+[2025-02-26 06:50:20] niloc95: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[2025-02-26 06:50:20] niloc95: Database connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)

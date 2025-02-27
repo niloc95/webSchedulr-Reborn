@@ -1,0 +1,6 @@
+[2025-02-26 09:25:19] niloc95: Starting installation assessment
+[2025-02-26 09:25:19] niloc95: Checking file structure
+[2025-02-26 09:25:19] niloc95: Checking directory permissions
+[2025-02-26 09:25:19] niloc95: Checking configuration template
+[2025-02-26 09:25:19] niloc95: Checking installation requirements
+[2025-02-26 09:25:19] niloc95: Assessment report generated: /home/nilo/dev/webSchedulr-Reborn/migration/installation_assessment_2025-02-26_11-30-41.md
