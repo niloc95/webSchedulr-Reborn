@@ -5,6 +5,11 @@
     "dev": "vite",
     "build": "vite build"
   },
+  "autoload-dev": {
+    "psr-4": {
+        "Tests\\": "tests/"
+    }
+  },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
     "axios": "^1.1.2",
